@@ -1,8 +1,10 @@
 22/09/2026
 
-<!-- notify 1/2 · uuVki0GL -->
-## Notification 1/2
-Round: Round 1
-To: luisimix31@gmail.com, luanpd437@yahoo.com
-At: 2026-09-22 18:27:34
-Id: uuVki0GL
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: cgill924@yahoo.com, srbooth@ksu.edu
+At: 2026-09-22 18:27:44
+Id: oXTlu5R0
